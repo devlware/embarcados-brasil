@@ -1,42 +1,42 @@
 # embarcados-brasil
-Onde trabalhar com sistemas embarcados no Brasil
 
+Onde trabalhar com sistemas embarcados no Brasil.
 
-Paraná
+## Amazonas
 
-Alta Rail Technology - http://alta-rt.com/en/  
-Onde: Colombo  
-Faz: Computador de bordo para locomotivas, equipamentos para monitorar locomotiva.  
-Tecnologias: C, C++, Linux  
+## Espirito Santo
 
-Sascar - http://www.sascar.com.br  
-Onde: Curitiba, Barueri (Engenharia)  
-Faz: Vende serviços para gestão de frotas, carros, empilhadeiras, linha amarela etc.  
-Tecnologias: C, C++  
+## Paraná
 
-Santa Catarina
+### Alta Rail Technology - http://alta-rt.com/en/
+* Onde: Colombo
+* Faz: Computador de bordo para locomotivas, equipamentos para monitorar locomotiva.
+* Tecnologias: C, C++, Linux
 
-Hexagon Agriculture - http://hexagonagriculture.com/pt-br/  
-Onde: Florianópolis  
-Faz: Soluções para agricultura  
-Tecnologias: C++, Python, Qt  
-RH: http://hexagonagriculture.com/pt-br/about-us/careers  
+### Sascar - http://www.sascar.com.br
+* Onde: Curitiba, Barueri (Engenharia)
+* Faz: Vende serviços para gestão de frotas, carros, empilhadeiras, linha amarela etc.
+* Tecnologias: C, C++
 
-Rio Grande do Sul
+## Minas Gerais
 
-Datacom - http://www.datacom.ind.br  
-Onde: Curitiba, Porto Alegre  
-Faz: Desenvolve equipamentos para área de telefonia.  
-Tecnologias: C, C++, Python, Vhdl  
-RH: http://www.datacom.ind.br/carreira  
+## Rio de Janeiro
 
+## Rio Grande do Sul
 
-São Paulo
+### Datacom - http://www.datacom.ind.br
+* Onde: Curitiba, Porto Alegre
+* Faz: Desenvolve equipamentos para área de telefonia.
+* Tecnologias: C, C++, Python, VHDL
+* RH: http://www.datacom.ind.br/carreira
 
-Rio de Janeiro
+## Santa Catarina
 
-Minas Gerais
+### Hexagon Agriculture - http://hexagonagriculture.com/pt-br/
+* Onde: Florianópolis
+* Faz: Soluções para agricultura
+* Tecnologias: C++, Python, Qt
+* RH: http://hexagonagriculture.com/pt-br/about-us/careers
 
-Espirito Santo
+## São Paulo
 
-Amazonas
